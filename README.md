@@ -11,14 +11,14 @@ Converter Developer API supports YouTube, SoundCloud, Facebook, Twitter, Instagr
 **1. Single Button API**  
 **Warning:** API does not work if used with **"sandbox"** iFrame attribute. Your Domain/IP will be blocked.   
 ex: ~~<iframe sandbox="allow-scripts allow-same-origin"...~~   
-`GET https://convert2mp3s.com/api/single/{FTYPE}?url={VIDEO_URL}`  
+`GET https://api.vevioz.com/api/single/{FTYPE}?url={VIDEO_URL}`  
 Parameters  
 ***FTYPE***  
 mp3, mp4, webm  
 ***VIDEO_URL***  
 any YouTube, SoundCloud, Facebook, Twitter, Instagram, TikTok, Vimeo, Dailymotion, VK, or AOL Video URL  
 **iFrame Code:**  
-`<iframe src="https://convert2mp3s.com/api/single/mp3?url=https://www.youtube.com/watch?v=pRpeEdMmmQ0"
+`<iframe src="https://api.vevioz.com/api/single/mp3?url=https://www.youtube.com/watch?v=pRpeEdMmmQ0"
 width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>`  
 **API Preview :**  
 ![Single Button API](https://i.imgur.com/2wSO0ol.jpeg)  
@@ -26,14 +26,14 @@ width="100%" height="100%" allowtransparency="true" scrolling="no" style="border
 **2. Button API**  
 **Warning:** API does not work if used with **"sandbox"** iFrame attribute. Your Domain/IP will be blocked.   
 ex: ~~<iframe sandbox="allow-scripts allow-same-origin"...~~   
-`GET https://convert2mp3s.com/api/button/{FTYPE}?url={VIDEO_URL}`  
+`GET https://api.vevioz.com/api/button/{FTYPE}?url={VIDEO_URL}`  
 Parameters  
 ***FTYPE***  
 mp3, mp4, webm  
 ***VIDEO_URL***  
 any YouTube, SoundCloud, Facebook, Twitter, Instagram, TikTok, Vimeo, Dailymotion, VK, or AOL Video URL  
 **iFrame Code:**  
-`<iframe id="buttonApi" src="https://convert2mp3s.com/api/button/mp3?url=https://www.youtube.com/watch?v=pRpeEdMmmQ0"
+`<iframe id="buttonApi" src="https://api.vevioz.com/api/button/mp3?url=https://www.youtube.com/watch?v=pRpeEdMmmQ0"
 width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>`  
 **API Preview :**  
 ![Button API](https://i.imgur.com/qIW1Ofw.jpeg)  
@@ -41,12 +41,12 @@ width="100%" height="100%" allowtransparency="true" scrolling="no" style="border
 **3. Widget API**  
 **Warning:** API does not work if used with **"sandbox"** iFrame attribute. Your Domain/IP will be blocked.   
 ex: ~~<iframe sandbox="allow-scripts allow-same-origin"...~~   
-`GET https://convert2mp3s.com/api/widget?url={VIDEO_URL}`  
+`GET https://api.vevioz.com/api/widget?url={VIDEO_URL}`  
 Parameters  
 ***VIDEO_URL***  
 any YouTube, SoundCloud, Facebook, Twitter, Instagram, TikTok, Vimeo, Dailymotion, VK, or AOL Video URL  
 **iFrame Code:**  
-`<iframe id="widgetApi" src="https://convert2mp3s.com/api/widget?url=https://www.youtube.com/watch?v=pRpeEdMmmQ0"
+`<iframe id="widgetApi" src="https://api.vevioz.com/api/widget?url=https://www.youtube.com/watch?v=pRpeEdMmmQ0"
 width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>`   
 **API Preview :**  
 ![Widget API](https://i.imgur.com/fA7fw6J.jpeg)  
@@ -54,12 +54,12 @@ width="100%" height="100%" allowtransparency="true" scrolling="no" style="border
 **4. Widget v2 API**  
 **Warning:** API does not work if used with **"sandbox"** iFrame attribute. Your Domain/IP will be blocked.   
 ex: ~~<iframe sandbox="allow-scripts allow-same-origin"...~~   
-`GET https://convert2mp3s.com/api/widgetv2?url={VIDEO_URL}`  
+`GET https://api.vevioz.com/api/widgetv2?url={VIDEO_URL}`  
 Parameters  
 ***VIDEO_URL***  
 any YouTube, SoundCloud, Facebook, Twitter, Instagram, TikTok, Vimeo, Dailymotion, VK, or AOL Video URL  
 **iFrame Code:**  
-`<iframe id="widgetv2Api" src="https://convert2mp3s.com/api/widgetv2?url=https://www.youtube.com/watch?v=pRpeEdMmmQ0"
+`<iframe id="widgetv2Api" src="https://api.vevioz.com/api/widgetv2?url=https://www.youtube.com/watch?v=pRpeEdMmmQ0"
 width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>`   
 **API Preview :**  
 ![Widget V2 API](https://i.imgur.com/HITRy32.jpeg)  
@@ -67,8 +67,8 @@ width="100%" height="100%" allowtransparency="true" scrolling="no" style="border
 **Technical Support & Domain Activation Contact: convert2mp3s@gmail.com**  
 
 **Official API Websites:**  
-- https://convert2mp3s.com/developers
+- https://api.vevioz.com/developers
 - https://convert2api.com  
 **Demo Sites:**  
-- https://convert2mp3s.com 
+- https://api.vevioz.com 
 - https://mp3juices.digital
