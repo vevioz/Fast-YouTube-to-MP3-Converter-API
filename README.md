@@ -64,11 +64,11 @@ width="100%" height="100%" allowtransparency="true" scrolling="no" style="border
 **API Preview :**  
 ![Widget V2 API](https://i.imgur.com/HITRy32.jpeg)  
 
-**Technical Support & Domain Activation Contact: convert2mp3s@gmail.com**  
+**Technical Support & Domain Activation Contact: admin@vevioz.com**  
 
 **Official API Websites:**  
-- https://api.vevioz.com/developers
-- https://convert2api.com  
-**Demo Sites:**  
 - https://api.vevioz.com 
-- https://mp3juices.digital
+
+**Demo Sites:**  
+- https://downloader.vevioz.com
+- https://download-lagu-mp3.com
